@@ -209,7 +209,6 @@ td {
 
   h2 {
     font-size: 1.75rem;
-    //margin-block-end: 1rem;
   }
 
   .recipe {
@@ -252,8 +251,3 @@ td {
     width: 51%;
   }
 }
-
-// width of container: 736px = 46rem
-// width of padding: 40px = 2.5rem
-// width of content: 656 = 41rem
-// margin block: 120px = 7.5rem

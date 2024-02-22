@@ -54,7 +54,7 @@ In this section, I recap some of my major learnings while working through this p
 - [Adding border bottom to a table row](https://stackoverflow.com/questions/10040842/add-border-bottom-to-table-row-tr)
 - Vertical alignment/centering of bullets in list, such as [these flex solutions](https://css-tricks.com/forums/topic/how-do-i-vertically-align-custom-bullets-to-the-middle-of-the-list-content/) that [used the :before marker](https://stackoverflow.com/questions/69874236/how-can-i-vertically-align-a-list-item-marker); making sure the [flex-shrink property is set properly](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-shrink)
 - rem vs. em vs. px such as [this resource](https://css-tricks.com/rems-ems/), or [this one](https://j.eremy.net/confused-about-rem-and-em/), or [this one that includes accessibility considerations](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
-- run my own validators for HTML, CSS and accessibility?
+- run my [own validators for HTML, CSS and accessibility](https://www.w3.org/developers/tools/)?
 - think about better specifying the adjustments from the system using concepts like inherited property values [for example](https://stackoverflow.com/questions/21605946/how-can-i-use-css-calc-with-inherit) or [this shifty translation idea](https://www.joshwcomeau.com/css/pixel-perfection/#a-shifty-component-4)
 
 One CSS aspect that I found fun to implement was placing the top recipe image outside of its parent container (the wrapper class) so that it spanned the full width of the viewport (at least in the mobile version). I found these two resources exactly what I needed:
