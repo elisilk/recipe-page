@@ -20,17 +20,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-Mobile designed at 375px:
-
-![](./screenshot-mobile.png)
-
-Desktop designed at 1440px:
-
-![](./screenshot-desktop.png)
+|  Mobile designed at 375px:   |  Desktop designed at 1440px:  |
+| :--------------------------: | :---------------------------: |
+| ![](./screenshot-mobile.png) | ![](./screenshot-desktop.png) |
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/elisilk/recipe-page](https://github.com/elisilk/recipe-page)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
