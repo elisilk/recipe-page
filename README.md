@@ -38,6 +38,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- BEM
 
 ### What I learned
 

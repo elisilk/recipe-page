@@ -227,7 +227,8 @@ tr:last-of-type td {
   /* 768px - 616px content - 48px x2 for margin = 56px */
   /* 768px - 56px = 712px = 44.5rem */
   .article {
-    margin-block: 8rem; /* 128px */
+    /* margin-block: 8rem; */ /* 128px */
+    margin-block: 123px;
     margin-inline: 3rem; /* 48px */
     border-radius: 1.5rem;
     padding: 2.5rem;
@@ -239,16 +240,6 @@ tr:last-of-type td {
     right: 0;
     width: 100%;
     border-radius: 0.75rem;
-  }
-}
-
-@media (min-width: 736px) {
-  html {
-    /* line-height: 1.4; */
-  }
-
-  .article {
-    margin-block: 123px; /* 128px */
   }
 
   .article__title {
